@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 #Junk
 .DS_Store
 .vscode/
 .idea/
 
+=======
+>>>>>>> 4eb888d68789f2ad19388942d936503c9c78fe5c
 # Logs
 logs
 *.log
@@ -78,7 +81,11 @@ typings/
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
+<<<<<<< HEAD
 .parcel-cache
+=======
+.cache
+>>>>>>> 4eb888d68789f2ad19388942d936503c9c78fe5c
 
 # Next.js build output
 .next
